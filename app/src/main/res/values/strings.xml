@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TransitionTask</string>
+    <string name="simple_transition">simpleTransition</string>
+</resources>
